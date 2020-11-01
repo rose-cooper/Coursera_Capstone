@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+__pycache__
 
 # to hide login details on GitHub
 foursquare_id.py
