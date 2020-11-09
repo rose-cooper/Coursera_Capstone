@@ -4,5 +4,6 @@ __pycache__
 # to hide login details on GitHub
 foursquare_id.py
 
-# don't need doc
-Capstone_project_report.gdoc
+# don't need doc or slides
+capstone_project_report.gdoc
+capstone_project_presentation.gslides
